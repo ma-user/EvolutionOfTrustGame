@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.swiggy.TrustTransactionTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2024-02-05T18:30:37" hostname="Muskaans-MacBook-Pro.local" time="0.026">
+  <properties/>
+  <testcase name="testProcessGameDecisionsCopyCatVsGrudger()" classname="org.swiggy.TrustTransactionTest" time="0.006"/>
+  <testcase name="testProcessGameDecisionsGrudgerVsCopyKitten()" classname="org.swiggy.TrustTransactionTest" time="0.001"/>
+  <testcase name="testProcessGameDecisionsGrudgerVsCopyCat()" classname="org.swiggy.TrustTransactionTest" time="0.0"/>
+  <testcase name="testProcessGameDecisionsCheatVsCopyKitten()" classname="org.swiggy.TrustTransactionTest" time="0.001"/>
+  <testcase name="testProcessGameDecisionsCopyCatVsCopyCat()" classname="org.swiggy.TrustTransactionTest" time="0.0"/>
+  <testcase name="testProcessGameDecisionsCopyCatVsCopyKitten()" classname="org.swiggy.TrustTransactionTest" time="0.001"/>
+  <testcase name="testProcessGameDecisionsCheatVsCooperate()" classname="org.swiggy.TrustTransactionTest" time="0.0"/>
+  <testcase name="testProcessGameDecisionsCooperateVsGrudger()" classname="org.swiggy.TrustTransactionTest" time="0.0"/>
+  <testcase name="testProcessGameDecisionsCheatVsCheat()" classname="org.swiggy.TrustTransactionTest" time="0.0"/>
+  <testcase name="testProcessGameDecisionsCooperateVsCheat()" classname="org.swiggy.TrustTransactionTest" time="0.001"/>
+  <testcase name="testProcessGameDecisionsCooperateVsCopyCat()" classname="org.swiggy.TrustTransactionTest" time="0.0"/>
+  <testcase name="testProcessGameDecisionsCopyKittenVsCheat()" classname="org.swiggy.TrustTransactionTest" time="0.0"/>
+  <testcase name="testProcessGameDecisionsCooperateVsCopyKitten()" classname="org.swiggy.TrustTransactionTest" time="0.0"/>
+  <testcase name="testProcessGameDecisionsCopyKittenVsGrudger()" classname="org.swiggy.TrustTransactionTest" time="0.0"/>
+  <testcase name="testProcessGameDecisionsGrudgerVsCooprate()" classname="org.swiggy.TrustTransactionTest" time="0.0"/>
+  <testcase name="testProcessGameDecisionsCopyCatVsCooperate()" classname="org.swiggy.TrustTransactionTest" time="0.001"/>
+  <testcase name="testProcessGameDecisionsCopyKittenVsCopyCat()" classname="org.swiggy.TrustTransactionTest" time="0.001"/>
+  <testcase name="testProcessGameDecisionsCooperateVsCooperate()" classname="org.swiggy.TrustTransactionTest" time="0.001"/>
+  <testcase name="testProcessGameDecisionsCopyKittenVsCooperate()" classname="org.swiggy.TrustTransactionTest" time="0.001"/>
+  <testcase name="testProcessGameDecisionsCopyCatVsCheat()" classname="org.swiggy.TrustTransactionTest" time="0.001"/>
+  <testcase name="testProcessGameDecisionsCheatVsGrudger()" classname="org.swiggy.TrustTransactionTest" time="0.0"/>
+  <testcase name="testProcessGameDecisionsGrudgerVsCheat()" classname="org.swiggy.TrustTransactionTest" time="0.0"/>
+  <testcase name="testProcessGameDecisionsGrudgerVsGrudger()" classname="org.swiggy.TrustTransactionTest" time="0.001"/>
+  <testcase name="testProcessGameDecisionsCheatVsCopyCat()" classname="org.swiggy.TrustTransactionTest" time="0.0"/>
+  <testcase name="testProcessGameDecisionsCopyKittenVsCopyKitten()" classname="org.swiggy.TrustTransactionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
